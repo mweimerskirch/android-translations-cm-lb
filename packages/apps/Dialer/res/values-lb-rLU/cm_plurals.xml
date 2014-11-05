@@ -15,4 +15,21 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"/>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <plurals name="hour">
+    <item quantity="one">%d Stonn</item>
+    <item quantity="other">%d Stonnen</item>
+  </plurals>
+  <plurals name="minute">
+    <item quantity="one">%d Minutt</item>
+    <item quantity="other">%d Minutten</item>
+  </plurals>
+  <plurals name="second">
+    <item quantity="one">%d Sekonn</item>
+    <item quantity="other">%d Sekonnen</item>
+  </plurals>
+  <plurals name="call">
+    <item quantity="one">%d Uruff</item>
+    <item quantity="other">%d Uriff</item>
+  </plurals>
+</resources>

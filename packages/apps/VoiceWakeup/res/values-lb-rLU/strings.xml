@@ -15,4 +15,11 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources/>
+<resources>
+  <string name="app_name">Mat Stëmm waakreg maachen</string>
+  <string name="training_button_train">A lass geet et</string>
+  <string name="training_button_all_done">Alles fäerdeg</string>
+  <string name="training_button_reset">Méi spéit zréckkommen</string>
+  <string name="training_instruction_success">System trainéieren</string>
+  <string name="notification_title">Mat Stëmm waakreg maachen ass disponibel</string>
+</resources>

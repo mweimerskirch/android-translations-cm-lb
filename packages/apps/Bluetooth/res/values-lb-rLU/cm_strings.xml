@@ -16,4 +16,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"/>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="empty_file_notification_sent">Deelen iwwer Bluetooth: Den Empfänger huet den eidele Fichier <xliff:g id="file">%1$s</xliff:g> ofgeleent</string>
+  <string name="format_progress_text">%1$d%%</string>
+</resources>

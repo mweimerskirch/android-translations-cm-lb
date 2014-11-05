@@ -15,4 +15,8 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"/>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="app_name">CM-Hannergrondbiller</string>
+  <string name="set_wallpaper">Hannergrondbild setzen</string>
+  <string name="no_wallpaper">Keen Hannergrondbild</string>
+</resources>

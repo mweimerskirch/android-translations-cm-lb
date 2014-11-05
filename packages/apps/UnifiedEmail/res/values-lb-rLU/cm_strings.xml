@@ -15,4 +15,8 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"/>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="confirm_forward_message">Messagen hunn Unhäng</string>
+  <string name="confirm_forward_normal">Eroflueden a schécken</string>
+  <string name="confirm_forward_drop_unloaded">Kopie vum Server benotzen</string>
+</resources>

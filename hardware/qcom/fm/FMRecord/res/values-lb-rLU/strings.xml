@@ -28,4 +28,16 @@
  * OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF
  * ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 -->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"/>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="no_storage">Bann d\'SD-Kaart an ier s de d\'Opnam starts.</string>
+  <string name="preparing_sd">SD-Kaart gëtt preparéiert</string>
+  <string name="access_sd_fail">Konnt net op d\'SD-Kaart zougräifen.</string>
+  <string name="spaceIsLow_content">Deng SD-Kaart huet geschwë keng Plaz méi. Änner d\'Qualitéitsastellungen oder läsch e puer Fotoen oder Fichieren.</string>
+  <string name="FMRecording_reach_size_limit">Gréisstelimitt ass erreecht.</string>
+  <string name="audio_db_title_format"><xliff:g id="format">dd.MM.yyyy HH:mm:ss</xliff:g></string>
+  <string name="audio_db_artist_name">Meng Radioopnamen</string>
+  <string name="audio_db_album_name">Radioopnamen</string>
+  <string name="audio_db_playlist_name">Radioopnamen</string>
+  <string name="save_record_file">Fichier vun der Radioopnam ënner \'<xliff:g id="record_file">%1$s</xliff:g>\' gespäichert</string>
+  <string name="fm_record_progress">Radioopnam leeft</string>
+</resources>
