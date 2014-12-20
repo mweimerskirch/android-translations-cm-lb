@@ -18,13 +18,22 @@
 <resources>
   <string name="app_name">Design-Galerie</string>
   <string name="themes">Designen</string>
+  <string name="home_screen">Heemschierm</string>
+  <string name="lock_screen">Hannergrondbiller spären</string>
+  <string name="icons">Symboler</string>
+  <string name="fonts">Schrëftaarten</string>
   <string name="wallpapers">Hannergrondbiller</string>
   <string name="boot_anims">Startanimatiounen</string>
   <string name="soundpacks">Tounpäck</string>
   <string name="purchase">Kafen</string>
   <string name="change_theme">Design wiesselen</string>
+  <string name="styles">Stiler</string>
+  <string name="unknown_author">Auteur net bekannt</string>
   <string name="font_preview_letters">AaBbCcDd123</string>
   <string name="price_free">Gratis</string>
   <string name="error_connection">Et gouf e Feeler beim Connectiounsversuch.</string>
+  <string name="error_invalid_response">Komescherweis huet de Server keng Designen zeréckginn.</string>
+  <string name="retry">Nach eemol probéieren</string>
   <string name="price_installed">Installéiert</string>
+  <string name="view_in_theme_chooser">An der Design-Auswiel uweisen</string>
 </resources>

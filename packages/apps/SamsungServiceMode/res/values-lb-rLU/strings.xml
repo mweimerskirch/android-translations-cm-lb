@@ -15,4 +15,8 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources/>
+<resources>
+  <string name="app_name">Service-Modus</string>
+  <string name="input">Agang</string>
+  <string name="quit">Verloossen</string>
+</resources>

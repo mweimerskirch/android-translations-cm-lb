@@ -17,6 +17,18 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="app_name">Erweidert Astellungen</string>
+  <string name="category_tvout_title">Tëleeausgank</string>
+  <string name="tvout_enable_head">Tëleeausgank</string>
+  <string name="tvout_enable_summary_nocable">Tëlee-Ausgangskabel net ugeschloss</string>
+  <string name="tvout_enable_summary">Tëlee-Ausgangskabel ugeschloss, Krop setze fir ze aktivéieren</string>
+  <string name="tvout_enable_summary_on">Tëleeausgank aktivéiert</string>
+  <string name="tvout_system_head">Tëleessystem</string>
+  <string name="tvout_system_summary">Stell däin Tëlee-System fir \"TV-Out\" an</string>
+  <string name="hdmi_dock_summary_nodock">HDMI-Dock net verbonnen</string>
+  <string name="hdmi_dock_summary">HDMI-Dock verbonnen, Krop setze fir ze aktivéieren</string>
+  <string name="hdmi_dock_summary_on">HDMI-Dock aktivéiert</string>
+  <string name="hdmi_dock_head">HDMI-Dock</string>
+  <string name="button_reset_title">Zrécksetzen</string>
   <string name="generic_warning_title">Warnung</string>
   <string name="imei_not_sane_title">Warnung!</string>
   <string name="imei_not_sane_message">E Problem mat dengem Apparat gouf detektéiert. Deng IMEI-Nummer ass net gëlteg. Eng ongëlteg IMEI-Nummer kann zu Netzwierkproblemer féieren an ënner anerem d\'Uruffe vun Noutruffnummeren verhënneren.</string>

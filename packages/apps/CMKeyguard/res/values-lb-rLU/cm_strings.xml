@@ -15,4 +15,18 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"/>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="app_name">CM-Spärschierm</string>
+  <string name="keyguard_discharging">Gëtt entlueden, <xliff:g id="number">%d</xliff:g><xliff:g id="percent">%%</xliff:g></string>
+  <plurals name="missed_calls">
+    <item quantity="one">%d verpassten Uruff</item>
+    <item quantity="other">%d verpassten Uriff</item>
+  </plurals>
+  <plurals name="unread_messages">
+    <item quantity="one">%d ongeliesene Message</item>
+    <item quantity="other">%d ongeliese Messagen</item>
+  </plurals>
+  <string name="missed_call">verpassten Uruff</string>
+  <string name="message_from">Message vum</string>
+  <string name="message_from_person">Message vum %1$s</string>
+</resources>

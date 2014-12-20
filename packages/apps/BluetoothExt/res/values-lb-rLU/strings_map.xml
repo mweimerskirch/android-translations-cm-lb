@@ -30,4 +30,9 @@
  * ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 -->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"/>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="map_notif_active_session">Zougrëff op d\'Messagen iwwer Bluetooth aktiv</string>
+  <string name="map_notif_connected">Zougriff op d\'Messagen iwwer Bluetooth op \"<xliff:g id="device_name">%1$s</xliff:g>\".</string>
+  <string name="bluetooth_mas_request">Ufro fir Zougrëff op d\'Messagen</string>
+  <string name="bluetooth_mas_acceptance_dialog_text">%1$s wëll op deng Messagen zougräifen. Accès fir %2$s erlaben?</string>
+</resources>

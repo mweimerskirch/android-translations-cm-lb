@@ -17,9 +17,19 @@
 -->
 <resources>
   <string name="app_name">Mat Stëmm waakreg maachen</string>
+  <string name="training_subtitle">Dréck op de Mikro an der Mëtt vum Schierm fir unzefänken. So duerno \"%1$s\"</string>
+  <string name="training_instruction_intro">Looss eis mam Stëmmerkennungstraining vun dengem %1$s ufänke.\n\nDu sichs am beschten eng roueg Plaz dofir.\n\nWann s de prett bass, dréck de Knäppchen hei drënner, a suivéier den Instruktiounen um Schierm.</string>
+  <string name="training_instruction_error">Upps, konnt dech net héieren. Probéier nees \"%1$s\" ze soen</string>
+  <string name="training_instruction_try">Probéier \"%1$s\" ze soen</string>
+  <string name="training_instruction_outro">Perfekt, du bass prett! Däin Apparat ass elo op deng Stëmm trainéiert. Du kanns dësen Trainingsprozess ëmmer an den Astellunge widderhuelen.\n\nErwäch däin Apparat zu all Moment andeem s de \"%1$s\" sees</string>
+  <string name="training_title">Op deng Stëmm trainéieren</string>
   <string name="training_button_train">A lass geet et</string>
   <string name="training_button_all_done">Alles fäerdeg</string>
   <string name="training_button_reset">Méi spéit zréckkommen</string>
+  <string name="training_instruction_again">Super, das selwescht nach eemol.</string>
+  <string name="training_instruction_last_time">Eng lescht Kéier!</string>
   <string name="training_instruction_success">System trainéieren</string>
+  <string name="training_instruction_processing">Deng Stëmm gëtt veraarbecht\u2026</string>
   <string name="notification_title">Mat Stëmm waakreg maachen ass disponibel</string>
+  <string name="notification_text">Steier däin Telefon mat denger Stëmm. Dréck fir mam Training vun dengem neien Apparat unzefänken.</string>
 </resources>
