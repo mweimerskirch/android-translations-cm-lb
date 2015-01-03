@@ -20,12 +20,12 @@
   <string name="category_tvout_title">Tëleeausgank</string>
   <string name="tvout_enable_head">Tëleeausgank</string>
   <string name="tvout_enable_summary_nocable">Tëlee-Ausgangskabel net ugeschloss</string>
-  <string name="tvout_enable_summary">Tëlee-Ausgangskabel ugeschloss, Krop setze fir ze aktivéieren</string>
+  <string name="tvout_enable_summary">Tëlee-Ausgangskabel ugeschloss, Krop setze fir z\'aktivéieren</string>
   <string name="tvout_enable_summary_on">Tëleeausgank aktivéiert</string>
   <string name="tvout_system_head">Tëleessystem</string>
   <string name="tvout_system_summary">Stell däin Tëlee-System fir \"TV-Out\" an</string>
   <string name="hdmi_dock_summary_nodock">HDMI-Dock net verbonnen</string>
-  <string name="hdmi_dock_summary">HDMI-Dock verbonnen, Krop setze fir ze aktivéieren</string>
+  <string name="hdmi_dock_summary">HDMI-Dock verbonnen, Krop setze fir z\'aktivéieren</string>
   <string name="hdmi_dock_summary_on">HDMI-Dock aktivéiert</string>
   <string name="hdmi_dock_head">HDMI-Dock</string>
   <string name="button_reset_title">Zrécksetzen</string>

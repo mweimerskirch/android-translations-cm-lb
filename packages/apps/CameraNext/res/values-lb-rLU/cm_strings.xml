@@ -152,7 +152,7 @@
   <string name="pref_camera_left_handed_summary">Steierelementer fir Lénkshänner ajustéieren</string>
   <string name="camera_storage_fallback">Op d\'Standard-Späicherplaz zrécksetzen</string>
   <string name="pref_camera_volume_zoom_title">Lautstäerkt-Zoom</string>
-  <string name="pref_camera_volume_zoom_summary">Mat de Lautstäerkt-Knäppecher zoomen</string>
+  <string name="pref_camera_volume_zoom_summary">Mat de Lautstäerktknäppercher zoomen</string>
   <string name="pref_max_brightness_title">Helle Schierm</string>
   <string name="pref_max_brightness_summary">Maximal Schiermhellegkeet bei aktiver Kamera</string>
 </resources>

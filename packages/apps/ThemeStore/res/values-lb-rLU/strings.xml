@@ -32,7 +32,7 @@
   <string name="font_preview_letters">AaBbCcDd123</string>
   <string name="price_free">Gratis</string>
   <string name="error_connection">Et gouf e Feeler beim Connectiounsversuch.</string>
-  <string name="error_invalid_response">Komescherweis huet de Server keng Designen zeréckginn.</string>
+  <string name="error_invalid_response">Komescherweis huet de Server keng Designen zréckginn.</string>
   <string name="retry">Nach eemol probéieren</string>
   <string name="price_installed">Installéiert</string>
   <string name="view_in_theme_chooser">An der Design-Auswiel uweisen</string>

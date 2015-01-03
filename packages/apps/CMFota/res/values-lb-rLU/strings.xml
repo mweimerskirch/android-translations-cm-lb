@@ -9,9 +9,10 @@
   <string name="download_button">Aktualiséierung eroflueden</string>
   <string name="install_button">Aktualiséierung installéieren</string>
   <string name="nothing_found_desc">Bei der leschter Iwwerpréiwung <xliff:g id="date" example="4 hours ago">%1$s</xliff:g> ware keng Systemaktualiséierungen disponibel</string>
-  <string name="generic_update_desc" product="tablet">Eng Cyanogen-OS-Aktualiséierung, <xliff:g id="version">%1$s</xliff:g>, ass fir däin Tablet disponibel. Du kriss eng Notifikatioun, esoubal se prett ass fir installéiert ze ginn</string>
-  <string name="generic_update_desc" product="default">Eng CyanogenMod-Aktualiséierung, <xliff:g id="version">%1$s</xliff:g>, ass fir däin Telefon disponibel. Du kriss eng Notifikatioun, esoubal se prett ass fir installéiert ze ginn</string>
-  <string name="full_update_desc"><xliff:g id="upstream_desc">%1$s</xliff:g>. Du kriss eng Notifikatioun, esoubal se prett ass fir installéiert ze ginn</string>
+  <string name="generic_update_desc" product="tablet">Eng Cyanogen-OS-Aktualiséierung, <xliff:g id="version">%1$s</xliff:g>, ass fir däin Tablet disponibel. Du kriss eng Notifikatioun, soubal se prett ass fir installéiert ze ginn</string>
+  <string name="generic_update_desc" product="default">Eng CyanogenMod-Aktualiséierung, <xliff:g id="version">%1$s</xliff:g>, ass fir däin Telefon disponibel. Du kriss eng Notifikatioun, soubal se prett ass fir installéiert ze ginn</string>
+  <string name="full_update_desc"><xliff:g id="upstream_desc">%1$s</xliff:g>. Du kriss eng Notifikatioun, soubal se prett ass fir installéiert ze ginn</string>
+  <string name="update_size">Aktualiséierungsgréisst: <xliff:g id="size">%1$s</xliff:g></string>
   <string name="pending_update_header">Et ass eng Aktualiséierung fir däi System disponibel</string>
   <string name="pending_update_notification">Systemaktualiséierung ass prett fir installéiert ze ginn</string>
   <string name="pending_download_notification">Systemaktualiséierung disponibel</string>
