@@ -52,9 +52,11 @@
   <string name="msgs_privileged_console_alloc_failed">Konnt kee Root-Zougrëff kréien. Et gëtt zréck an de séchere Modus gewiesselt.</string>
   <string name="msgs_settings_save_failure">D\'Astellung konnt net applizéiert oder gespäichert ginn.</string>
   <string name="msgs_settings_invalid_initial_directory">De Standarddossier \"<xliff:g id="initial_dir">%1$s</xliff:g>\" ass ongëlteg. Wiesselen zréck op de Wuerzeldossier.</string>
+  <string name="root_not_available_msg">Root ass op dësem Apparat net disponibel. Kann d\'Operatioun net duerchféieren.</string>
   <string name="msgs_success">D\'Operatioun gouf erfollegräich ausgefouert.</string>
   <string name="msgs_unknown">Et ass e Feeler opgetrueden. D\'Operatioun war net erfollegräich.</string>
   <string name="msgs_insufficient_permissions">Dës Operatioun brauch méi héich Berechtegungen. Versichen an de Root-Zougrëffsmodus ze wiesselen.</string>
+  <string name="msgs_no_disk_space">Dës Operatioun ass feelgeschloen, well keng Späicherplaz méi um Apparat fräi ass.</string>
   <string name="msgs_file_not_found">De Fichier oder Dossier gouf net fonnt.</string>
   <string name="msgs_command_not_found">De Befeel vun dëser Operatioun gouf net fonnt oder huet eng ongëlteg Definitioun.</string>
   <string name="msgs_io_failed">Feeler beim Liese/Schreiwen.</string>
@@ -89,6 +91,10 @@
   <string name="sort_by_name_desc">No Numm \u25B2</string>
   <string name="sort_by_date_asc">No Datum \u25B2</string>
   <string name="sort_by_date_desc">No Datum \u25B2</string>
+  <string name="sort_by_size_asc">No Gréisst \u25B2</string>
+  <string name="sort_by_size_desc">No Gréisst \u25BC</string>
+  <string name="sort_by_type_asc">No Typ \u25B2</string>
+  <string name="sort_by_type_desc">No Typ \u25BC</string>
   <string name="layout_icons">Symboler</string>
   <string name="layout_simple">Einfach</string>
   <string name="layout_details">Detailer</string>
@@ -182,7 +188,7 @@
   <string name="initial_directory_error_msg">Beim Späichere vum Standarddossier ass e Feeler opgetrueden.</string>
   <string name="menu_search">Sich</string>
   <string name="menu_settings">Astellungen</string>
-  <string name="menu_clear_history">Historique läschen</string>
+  <string name="menu_clear_history">Historique eidel maachen</string>
   <string name="menu_no_suggestions">Keng Virschléi</string>
   <string name="menu_word_wrap">Zeilenëmbroch</string>
   <string name="menu_syntax_highlight">Syntaxervirhiewung</string>
@@ -278,6 +284,7 @@
   <string name="category_audio">TOUN</string>
   <string name="category_video">VIDEO</string>
   <string name="category_security">SÉCHERHEET</string>
+  <string name="category_all">ALL</string>
   <string name="compression_mode_title">Kompressiounsmodus</string>
   <string name="shortcut_failed_msg">Feeler beim Zougrëff op d\'Ofkierzung.</string>
   <string name="shortcut_creation_success_msg">Ofkierzung erfollegräich ugeluecht.</string>
@@ -307,7 +314,7 @@
   <string name="pref_access_mode_safe">Séchere Modus</string>
   <string name="pref_access_mode_safe_summary">Séchere Modus\n\nD\'App leeft ouni Privilegien an déi eenzeg Fichierssystemen déi accessibel sinn, sinn d\'Späicherlafwierker (SD-Kaart an USB)</string>
   <string name="pref_access_mode_prompt">Benotzermodus froen</string>
-  <string name="pref_access_mode_prompt_summary">Benotzermodus froen\n\nD\'App leeft mat vollem Accès op de Fichierssystem mee freet ëm Erlabnis ier privilegéiert Aktiounen ausgefouert ginn</string>
+  <string name="pref_access_mode_prompt_summary">Benotzermodus froen\n\nD\'App leeft mat vollem Accès op de Fichierssystem mä freet ëm Erlabnis ier privilegéiert Aktiounen ausgefouert ginn</string>
   <string name="pref_access_mode_root">Root-Zougrëffsmodus</string>
   <string name="pref_access_mode_root_summary">Root-Zougrëffsmodus\n\nWarnung! Dëse Modus erlaabt Operatiounen déi däin Apparat kéinte futti maachen. Et ass deng Responsabilitéit sécherzestellen datt eng Operatioun sécher ass</string>
   <string name="pref_restrict_secondary_users_access_title">Benotzerzougrëff aschränken</string>

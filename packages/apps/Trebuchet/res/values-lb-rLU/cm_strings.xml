@@ -15,14 +15,12 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="home_screen_settings">STARTSCHIERM-ASTELLUNGEN</string>
   <string name="drawer_settings">ASTELLUNGE VUN DER APP-IWWERSIICHT</string>
   <string name="app_settings">APP-ASTELLUNGEN</string>
   <string name="setting_state_on">UN</string>
   <string name="setting_state_off">AUS</string>
-  <string name="search_panel_gel">Google Now</string>
-  <string name="search_panel_custom_home">CM Home</string>
   <string name="themes_button_text">Designen</string>
   <string name="scrolling_page_outlines">Säiterummen</string>
   <string name="scrolling_fade_adjacent">Säiten um Rand ausblenden</string>
@@ -31,8 +29,7 @@
   <string name="grid_size_comfortable">Gemittlech</string>
   <string name="grid_size_cozy">Heemlech</string>
   <string name="grid_size_condensed">Schmuel</string>
-  <string name="grid_size_custom">Personaliséiert</string>
-  <string name="grid_size_custom_and_size">Personaliséiert (%1$s)</string>
+  <string name="grid_size_custom">Personaliséiert (<xliff:g id="rows">%1$d</xliff:g> \u00d7 <xliff:g id="columns">%2$d</xliff:g>)</string>
   <string name="preferences_interface_homescreen_custom">Personaliséiert Gréisst auswielen</string>
   <string name="scroll_effect_text">Scrolleffekt</string>
   <string name="drawer_sorting_text">Zortéiermodus</string>
@@ -45,8 +42,5 @@
   <string name="icon_labels_show">Uweisen</string>
   <string name="icon_labels_hide">Verstoppen</string>
   <string name="protected_app_settings">Geschützt Appen</string>
-  <string name="search_screen_left_text">Sichpanneau</string>
   <string name="dialog_confirm">Bestätegen</string>
-  <string name="permission_label_read_extension_data">DashClock-Erweiderungsdaten ufroen</string>
-  <string name="permission_desc_read_extension_data">Erlaabt der App, DashClock-Erweiderungsdaten unzefuerderen</string>
 </resources>
