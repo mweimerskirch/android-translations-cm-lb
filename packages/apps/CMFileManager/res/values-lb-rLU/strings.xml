@@ -182,7 +182,7 @@
   <string name="initial_directory_error_msg">Beim Späichere vum Standarddossier ass e Feeler opgetrueden.</string>
   <string name="menu_search">Sich</string>
   <string name="menu_settings">Astellungen</string>
-  <string name="menu_clear_history">Historique läschen</string>
+  <string name="menu_clear_history">Historique eidel maachen</string>
   <string name="menu_no_suggestions">Keng Virschléi</string>
   <string name="menu_word_wrap">Zeilenëmbroch</string>
   <string name="menu_syntax_highlight">Syntaxervirhiewung</string>
@@ -307,7 +307,7 @@
   <string name="pref_access_mode_safe">Séchere Modus</string>
   <string name="pref_access_mode_safe_summary">Séchere Modus\n\nD\'App leeft ouni Privilegien an déi eenzeg Fichierssystemen déi accessibel sinn, sinn d\'Späicherlafwierker (SD-Kaart an USB)</string>
   <string name="pref_access_mode_prompt">Benotzermodus froen</string>
-  <string name="pref_access_mode_prompt_summary">Benotzermodus froen\n\nD\'App leeft mat vollem Accès op de Fichierssystem mee freet ëm Erlabnis ier privilegéiert Aktiounen ausgefouert ginn</string>
+  <string name="pref_access_mode_prompt_summary">Benotzermodus froen\n\nD\'App leeft mat vollem Accès op de Fichierssystem mä freet ëm Erlabnis ier privilegéiert Aktiounen ausgefouert ginn</string>
   <string name="pref_access_mode_root">Root-Zougrëffsmodus</string>
   <string name="pref_access_mode_root_summary">Root-Zougrëffsmodus\n\nWarnung! Dëse Modus erlaabt Operatiounen déi däin Apparat kéinte futti maachen. Et ass deng Responsabilitéit sécherzestellen datt eng Operatioun sécher ass</string>
   <string name="pref_restrict_secondary_users_access_title">Benotzerzougrëff aschränken</string>
