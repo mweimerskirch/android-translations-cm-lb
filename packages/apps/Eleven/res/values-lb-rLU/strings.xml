@@ -44,7 +44,6 @@
   <string name="menu_clear_list">Lëscht eidel maachen</string>
   <string name="menu_clear_recents">Rezent eidel maachen</string>
   <string name="menu_clear_queue">Waardeschlaang eidel maachen</string>
-  <string name="menu_save_queue">Waardeschlaang späicheren</string>
   <string name="menu_equalizer">Equalizer</string>
   <string name="add_to_playlist">An d\'Ofspilllëscht setzen</string>
   <string name="add_to_queue">Un d\'Waardeschlaang hänken</string>
@@ -111,13 +110,15 @@
   <string name="settings_delete_cache_title">Tëschespäicher läschen</string>
   <string name="settings_delete_cache_summary">All d\'tëschegespäichert Biller läschen</string>
   <string name="settings_download_only_on_wifi_title">Just iwwer WLAN eroflueden</string>
-  <string name="settings_download_only_on_wifi_summary">Fir Netzbedreiwerkäschten ze reduzéieren, net iwwer mobil Netzwierker eroflueden</string>
+  <string name="settings_download_only_on_wifi_summary">Fir Providerkäschten ze reduzéieren, net iwwer mobil Netzwierker eroflueden</string>
   <string name="settings_download_missing_artwork_title">Feelend Album-Coveren eroflueden</string>
   <string name="settings_download_artist_images_title">Feelend Interpretebiller eroflueden</string>
   <string name="settings_general_category">Allgemeng</string>
   <string name="settings_show_music_visualization_title">Musekvisualiséierung uweisen</string>
   <string name="settings_show_lyrics_title">Liddertexter uweisen</string>
   <string name="settings_show_lyrics_summary">Fir Lidder déi en \"srt\"-Fichier hunn</string>
+  <string name="settings_shake_to_play">Rësele fir opzespillen</string>
+  <string name="settings_shake_to_play_summary">Apparat rësele fir dat nächst Lidd ofzespillen</string>
   <string name="app_widget_small">Musek: 4 \u00d7 1</string>
   <string name="app_widget_large">Musek: 4 \u00d7 2</string>
   <string name="app_widget_large_alt">Musek: 4 \u00d7 2 (alternativ)</string>

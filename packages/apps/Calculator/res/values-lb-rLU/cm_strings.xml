@@ -27,6 +27,7 @@
   <string name="mod">mod</string>
   <string name="text_copied_toast">Text kopéiert.</string>
   <string name="copy">\"%s\" kopéieren</string>
+  <string name="remove_from_history">Aus dem Historique läschen</string>
   <string name="det">det</string>
   <string name="solve">Léisen</string>
   <string name="plus_row">+Rei</string>
@@ -40,4 +41,5 @@
   <string name="desc_hex">Hexadezimal</string>
   <string name="desc_bin">Binär</string>
   <string name="desc_dec">Dezimal</string>
+  <string name="text_max_chars">Ze vill Zeechen aginn - läsch w.e.g. e puer Zeechen oder léis d\'Gläichung fir weiderzefueren</string>
 </resources>

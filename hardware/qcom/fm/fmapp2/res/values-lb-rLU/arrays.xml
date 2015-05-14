@@ -118,7 +118,7 @@
     <item>Belsch</item>
     <item>Brasilien</item>
     <item>China</item>
-    <item>Tschechien</item>
+    <item>Tschechesch Republik</item>
     <item>Dänemark</item>
     <item>Finnland</item>
     <item>Frankräich</item>
@@ -143,9 +143,10 @@
     <item>Schweden</item>
     <item>Taiwan</item>
     <item>Türkei</item>
-    <item>Groussbritannien </item>
+    <item>Groussbritannien</item>
     <item>USA</item>
     <item>Benotzerdefinéiert Frequenzband</item>
+    <item>Indonesien</item>
   </string-array>
   <string-array name="regional_band_summary">
     <item>Nordamerika (87.5MHz bis 108.0MHz an 200-KHz-Schrëtter)</item>
@@ -157,7 +158,7 @@
     <item>Belsch (87,5 MHz bis 108,0 MHz an 100-kHz-Schrëtter)</item>
     <item>Brasilien (87,5 MHz bis 108,0 MHz an 200-kHz-Schrëtter)</item>
     <item>China (87,0 MHz bis 108,0 MHz an 100-kHz-Schrëtter)</item>
-    <item>Tschechien (87,5 MHz bis 108,0 MHz an 100-kHz-Schrëtter)</item>
+    <item>Czech Republic (87.5MHz to 108.0MHz in 100 KHz steps)</item>
     <item>Dänemark (87,5 MHz bis 108,0 MHz a 50-kHz-Schrëtter)</item>
     <item>Finnland (87,5 MHz bis 108,0 MHz an 100-kHz-Schrëtter)</item>
     <item>Frankräich (87,5 MHz bis 108,0 MHz an 100-kHz-Schrëtter)</item>
@@ -185,6 +186,7 @@
     <item>Groussbritannien (87,5 MHz bis 108,0 MHz an 100-kHz-Schrëtter)</item>
     <item>USA (88,1 MHz bis 107,9 MHz an 200-kHz-Schrëtter)</item>
     <item>Benotzerdefinéiert Frequenzband</item>
+    <item>Indonesien (87,5 MHz bis 108,0 MHz an 100-kHz-Schrëtter)</item>
   </string-array>
   <string-array name="channel_spacing_entries">
     <item>50 KHz</item>
