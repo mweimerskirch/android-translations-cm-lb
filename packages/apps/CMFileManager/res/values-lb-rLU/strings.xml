@@ -65,7 +65,7 @@
   <string name="msgs_read_only_filesystem">De Fichierssystem ass schreifgeschützt. Probéier de Fichiersystem mat Schreifrechter anzebannen ier s de dës Operatioun probéiers.</string>
   <string name="msgs_illegal_argument">Ongëltegt Argument. Opruff feelgeschloen.</string>
   <string name="msgs_unresolved_inconsistencies">Dës Operatioun ass net erlaabert well se Inkonsistenze géif verursaachen.</string>
-  <string name="msgs_operation_not_allowed_in_current_directory">Dës Operatioun ass am aktuellen Dossier net erlaabt.\n\nDen Zildossier kann net de selweschte si wéi den Ausganksdossier, an och keen Ënnerdossier dovun.</string>
+  <string name="msgs_operation_not_allowed_in_current_directory">Dës Operatioun ass am aktuellen Dossier net erlaabt.\n\nDen Zildossier kann net de selwechte si wéi den Ausganksdossier, an och keen Ënnerdossier dovun.</string>
   <string name="msgs_push_again_to_exit">Nach eemol drécke fir zouzemaachen.</string>
   <string name="msgs_not_registered_app">Fir den ausgewielte Fichierstyp ass keng App registréiert.</string>
   <string name="msgs_overwrite_files">Verschidde Fichieren existéiere schonn am Zildossier.\n\nIwwerschreiwen?</string>
@@ -97,7 +97,7 @@
   <string name="cm_filemanager_show_system">Systemfichieren uweisen</string>
   <string name="cm_filemanager_show_symlinks">Symbolech Ofkierzungen uweisen</string>
   <string name="filesystem_info_warning_title">Keng Informatiounen</string>
-  <string name="filesystem_info_warning_msg">Et si keng Informatiounen iwwer den Fichierssystem disponibel.</string>
+  <string name="filesystem_info_warning_msg">Et si keng Informatiounen iwwer de Fichierssystem disponibel.</string>
   <string name="filesystem_info_cant_be_mounted_msg">De Fichiersystem kann net agebonnen/getrennt ginn.</string>
   <string name="filesystem_info_mount_not_allowed_msg">Abannen/Trenne vu Fichierssystemen ass am séchere Modus net erlaabt. Dréck fir op de Root-Zougrëffsmodus ze wiesselen.</string>
   <string name="filesystem_info_mount_failed_msg">Abannen/Trenne vum Fichierssystem ass feelgeschloen. Op verschidde Fichierssystemer, wéi SD-Kaarten, kënnen dës Operatiounen net ausgefouert gi well se schreifgeschützt an de System agebaut sinn.</string>
@@ -292,14 +292,14 @@
   <string name="pref_about_summary">Fichiersmanager v<xliff:g id="version">%1$s</xliff:g>\nCopyright \u00A9 2012–2014 The CyanogenMod Project</string>
   <string name="pref_general_behaviour_category">Allgemeng</string>
   <string name="pref_case_sensitive_sort">Grouss-/Klengschreiwung respektéieren</string>
-  <string name="pref_case_sensitive_sort_summary">D\'Grouss-/Klengschreiwung respektéiere beim Navigéieren oder Sortéiere vu Sichresultater</string>
+  <string name="pref_case_sensitive_sort_summary">Grouss-/Klengschreiwung respektéiere beim Navigéieren oder Zortéiere vu Sichresultater</string>
   <string name="pref_filetime_format_mode">Datums- an Zäitformat</string>
   <string name="pref_disk_usage_warning_level">Späichernotzungswarnung</string>
-  <string name="pref_disk_usage_warning_level_summary" formatted="false">Eng aner Faarf uweise, wa méi wéI <xliff:g id="level">%1$s</xliff:g> Prozent vun der Späicherplaz beluecht sinn</string>
+  <string name="pref_disk_usage_warning_level_summary" formatted="false">Aner Faarf uweise, wa méi wéI <xliff:g id="level">%1$s</xliff:g> Prozent vun der Späicherplaz beluecht sinn</string>
   <string name="pref_compute_folder_statistics">Dossiersstatistike berechnen</string>
   <string name="pref_compute_folder_statistics_on">Warnung! D\'Berechnung vun den Dossiersstatistiken ass Zäit- a Ressourcen-opwänneg</string>
   <string name="pref_display_thumbs">Virschau</string>
-  <string name="pref_display_thumbs_summary">Eng Virschau fir Appen, Museksfichieren, Biller a Videoen uweisen</string>
+  <string name="pref_display_thumbs_summary">Virschau fir Appen, Museksfichieren, Biller a Videoen uweisen</string>
   <string name="pref_use_flinger">Wëschgeste benotzen</string>
   <string name="pref_use_flinger_summary">Vu lénks no riets wëschen, fir e Fichier oder en Dossier ze läschen</string>
   <string name="pref_general_advanced_settings_category">Erweidert</string>
@@ -316,7 +316,7 @@
   <string name="pref_show_relevance_widget">Relevanzindikator uweisen</string>
   <string name="pref_highlight_terms">Sichresultater ervirhiewen</string>
   <string name="pref_sort_search_results_mode">Zortéiermodus</string>
-  <string name="pref_sort_search_results_mode_none">Keng Sortéierung</string>
+  <string name="pref_sort_search_results_mode_none">Keng Zortéierung</string>
   <string name="pref_sort_search_results_mode_name">No Numm</string>
   <string name="pref_sort_search_results_mode_relevance">No Relevanz</string>
   <string name="pref_search_privacity_category">Privatsphär</string>
@@ -339,9 +339,9 @@
   <string name="pref_hexdump_desc">Beim Opmaache vun engem Binärfichier en Hexdump vum Fichier generéieren an am Hex-Editor uweisen</string>
   <string name="pref_editor_syntax_highlight_category">Syntaxervirhiewung</string>
   <string name="pref_syntax_highlight">Syntaxervirhiewung</string>
-  <string name="pref_syntax_highlight_desc">D\'Syntax vun engem Fichier beim Uweisen ervirhiewen (net fir all Fichierstypen disponibel)</string>
+  <string name="pref_syntax_highlight_desc">Syntax vun engem Fichier beim Uweisen ervirhiewen (net fir all Fichierstypen disponibel)</string>
   <string name="pref_syntax_highlight_color_scheme">Faarfschema</string>
-  <string name="pref_syntax_highlight_color_scheme_desc">D\'Faarfschema fir d\'Syntaxervirhiewung wielen</string>
+  <string name="pref_syntax_highlight_color_scheme_desc">Faarfschema fir d\'Syntaxervirhiewung auswielen</string>
   <string name="pref_syntax_sh_use_theme_default">Standard-Design benotzen</string>
   <string name="pref_syntax_sh_use_theme_default_desc">Dat standardméissegt Faarfschema vum aktuellen Design benotzen</string>
   <string name="pref_editor_sh_item_category">Elementer</string>

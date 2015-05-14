@@ -30,6 +30,7 @@
   <string name="new_account">Nei</string>
   <string name="skip_anyway">Trotzdeem iwwersprangen</string>
   <string name="dont_skip">Net iwwersprangen</string>
+  <string name="go_back">Zréck</string>
   <string name="setup_complete">Astellungen ofgeschloss</string>
   <string name="setup_complete_summary" product="tablet">Gléckwënsch! Däin Tablet ass prett fir duerchzestarten.</string>
   <string name="setup_complete_summary" product="default">Gléckwënsch! Däin Telefon ass prett fir duerchzestarten.</string>
@@ -44,8 +45,8 @@
   <string name="setup_current_date">Aktuellen Datum</string>
   <string name="setup_current_time">Aktuell Zäit</string>
   <string name="setup_msg_no_network">WARNUNG: du wäerts deng Konten net erfollegräich ariichte kënnen</string>
-  <string name="setup_warning_skip_wifi" product="tablet">WARNUNG: Du kéins zousätzlech Datekäschte beim Netzbedreiwer verursaachen.\n\nD\'Installatioun vum Tablet ka signifikant Netzwierkaktivitéit beusprochen.</string>
-  <string name="setup_warning_skip_wifi" product="default">WARNUNG: Du kéins zousätzlech Datekäschte beim Netzbedreiwer verursaachen.\n\nD\'Installatioun vum Telefon ka signifikant Netzwierkaktivitéit beusprochen.</string>
+  <string name="setup_warning_skip_wifi" product="tablet">WARNUNG: Du kéints zousätzlech Datekäschte beim Provider verursaachen.\n\nD\'Installatioun vum Tablet ka signifikant Netzwierkaktivitéit beusprochen.</string>
+  <string name="setup_warning_skip_wifi" product="default">WARNUNG: Du kéints zousätzlech Datekäschte beim Provider verursaachen.\n\nD\'Installatioun vum Telefon ka signifikant Netzwierkaktivitéit beusprochen.</string>
   <string name="setup_personalization">Personaliséieren</string>
   <string name="setup_finalizing">Installatioun gëtt finaliséiert\u2026</string>
   <string name="cmaccount_setup_create_title">E CyanogenMod-Kont erstellen</string>
@@ -92,10 +93,13 @@
   <string name="location_street_level" product="default">Appen dierfen op de GPS vu mengem Telefon zougräife fir mäi Standuert ze bestëmmen</string>
   <string name="location_network_based">Lokaliséierung iwwer WLAN an Datennetzwierk</string>
   <string name="location_neighborhood_level">Appe kënnen de Standuertservice vu Google benotze fir de Standuert méi séier z\'estiméieren. Anonym Standuertdate gi gesammelt an u Google geschéckt.</string>
-  <string name="update_icon_pack_available">Et ass en aktualiséierten Symbolpak disponibel</string>
+  <string name="update_icon_pack_available">Et ass en aktualiséierte Symbolpak disponibel</string>
   <string name="apply_icon_pack">Applizéieren</string>
   <string name="setup_mobile_data">Mobil Daten erlaben</string>
   <string name="enable_mobile_data_summary">D\'Aktivéiere vun der Dateconnectioun während dem Installatiounsprozess kann zousätzlech Käschte verursaachen.</string>
   <string name="enable_mobile_off">Nee</string>
   <string name="enable_mobile_on">Jo</string>
+  <string name="setup_unlock">Entspären</string>
+  <string name="setup_device_locked">Dësen Apparat gouf duerch de Benotzer gespaart.</string>
+  <string name="setup_device_locked_instructions"><i>Fir dës Funktioun z\'aktivéieren/desaktivéieren, géi op Astellungen  &gt; Sécherheet</i></string>
 </resources>
